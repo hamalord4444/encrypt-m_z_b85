@@ -1,0 +1,7 @@
+# Obfuscator
+# Created by xXx_not_found_xXx 
+#Github : https://github.com/hamalord4444)
+# Telegram : @xXx_not_found_xXx
+
+import marshal,zlib,base64
+exec(marshal.loads(zlib.decompress(base64.b85decode(b'c${TZ&2k$>5Z>7zX}y;Je`H5?JV6GmDwiBPCP1J<Do*eP912_oj4NeUnzkg^KW2B!_7YCY1Mmp)kqghki3gY)#mR3$&uZn8<Jp?&p6;2iyT9rEPkU#WIG^E+CDAmlapGxgC<!CE)R~@3gBiIrnVCzAS-C8+64zOo8_eb=o8T66c!^E&GOKW#PrTLG6nEG(pJX$j4Q6@eiVzLvV7jm56wKsu9&A2U)nKx!@oAJ3Rjp6h0xa;EU-UnS_-FhspDpg%d`_K1T^}s+`CDFvxNrw?>6U--j(_<U`ci>DvQ=TJPX;Sj8e4^Xu*#QtwQsN*n1eN_T@khp*5E#@qqYIYfWii95BLha2M_uL<E&OSR!5X&ey^{yP1qc~5A{6j&A|s(T2V*sY7~EMth(B*>gLe9KFk`H`}!?UMajTM%YCJB@}1V$xK^)yl$C2IyPrMU^$TThq&yla`y=J?Ncq@rld+D`i>^6PU9*SF8;nrZUTCj3e<z9dGa2Y_h{`qB4OLZQ4lJ%K+pjj)FdO4Y5~uUq;$MgVW^cb}l%x?~#<CPAJWLa5or_)q(mM0fxGT-1=i?^!0HTI233h7xPfbi>WU2FxoQS>fJQBSiSx_0-Do0Ym&mm$8^-Oo1?AWQDe7fhK&|UhvV1T|1+Tt=w(DBfxU%Mjix?bVi&gDa&dA-&<rsr-9kN2CcPd;*_)%L&@**roeAm}%49G{1R)2B2uaFOMG950U!q?WDIuiP|fcY8r+6u1`#^f(N?X0v&%NX^#hk?R8u&uG#G`en}pnuMd%*&Kb9CQ+IU9qME@eFGJA5JglJCnj7#JNvs%U$xHCxa}sPaO(6xfSUlPtxJ0G!^LS3CZ}g%8t_xxQKx>`OS)-`KB3(tiQ*?aJDuFnY={0%*Y#Zw%TmQO5b78_=m^)x)6ec;IZn@yLXl8^Na%Kk6mGY2(j1l9R^e!Rq08ef<!*AoIFW!j-fG>@tBf4BGP8k0lJjdrakMhd-T~h70L#MSv&B37V1n5aJ}<sCJr^M|9~Cdu_)zL$EEJ+BE7D5CxUyViCry=@bfU{sl^P;S@~tF?lKd#ib4d;)`9AM1X?kHNRQH1b1h(*HoPaN_ydkC43os*T`))7rAxMRtUpYfO;pA!<K_E?h94>8T&iCa}Og(m`#Zy0uQEf?kL=*1Xaso+$K#_!7u0SFoNlOwgEQO8T8OD(RC}T_BBlhQh$WsrVsvkN22^X7;eY#0*KHV;vIGo(RVmL%;m3&<(W+k5$UHKeimJH80#i@Cv>;D4+53N%'))))
